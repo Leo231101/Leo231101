@@ -2,7 +2,12 @@
 - 👀 I’m interested in cryptocurrency mining
 - 🌱 I’m a Certified Back-end Web developr on ALX, SAND Technologies
 - 💞️ I’m looking to collaborate on upcoming projects moving forward 
-- 📫 How to reach me ...ig @wisperr101 , Facebook Alex Onyilokwu, and WhatsApp +2348066528846 Telegram +2348079809127
+- 📫 How to reach me ...
+- ig @wisperr101
+- Facebook Alex Onyilokwu,
+- LinkedIn https://www.linkedin.com/in/alex-onyilokwu1101
+- WhatsApp +2348066528846
+-  Telegram +2348079809127
 - 😄 Pronouns: Adaptable. 
 - ⚡ Fun fact: I'm a Web 3.0 enthusiast 
 
